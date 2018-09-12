@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# @fortawesome/fontawesome-free - The Official Font Awesome 5 NPM package
 
-You can use the [editor on GitHub](https://github.com/dobsy89/davinobrien/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> "I came here to chew bubblegum and install Font Awesome 5 - and I'm all out of bubblegum"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![npm](https://img.shields.io/npm/v/@fortawesome/fontawesome-free.svg?style=flat-square)](https://www.npmjs.com/package/@fortawesome/fontawesome-free)
 
-### Markdown
+## Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+$ npm i --save @fortawesome/fontawesome-free
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Or
 
-### Jekyll Themes
+```
+$ yarn add @fortawesome/fontawesome-free
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dobsy89/davinobrien/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## What's included?
 
-### Support or Contact
+**This package includes all the same files available through our Free and Pro CDN.**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* /js - All JavaScript files associated with Font Awesome 5 SVG with JS
+* /css - All CSS using the classic Web Fonts with CSS implementation
+* /sprites - SVG icons packaged in a convenient sprite
+* /scss, /less - CSS Pre-processor files for Web Fonts with CSS
+* /webfonts - Accompanying files for Web Fonts with CSS
+* /svg - Individual icon files in SVG format
+
+## Documentation
+
+Get started [here](https://fontawesome.com/get-started). Continue your journey [here](https://fontawesome.com/how-to-use).
+
+Or go straight to the [API documentation](https://fontawesome.com/how-to-use/font-awesome-api).
+
+## Issues and support
+
+Start with [GitHub issues](https://github.com/FortAwesome/Font-Awesome/issues) and ping us on [Twitter](https://twitter.com/fontawesome) if you need to.
